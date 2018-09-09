@@ -80,7 +80,7 @@ function readUserData(userId, logout) {
 	console.log(meanFlow, meanpH, meanO2, meanTurb, loginTime, logout, email);
 	console.log(flow, pH,o2, turb);
 
-	if (false) {
+	if (true) {
 		var doc = new jsPDF('p','pt','a4');
 		doc.addHTML(document.body,function(){
 		    doc.save('Page.pdf');
