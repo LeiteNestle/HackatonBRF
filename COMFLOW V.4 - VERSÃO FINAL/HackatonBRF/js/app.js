@@ -1,5 +1,3 @@
-jsPDF
-
 var config = {
     apiKey: 'AIzaSyBqLOGcZSYsvHJUAdBAFmFg2vBNgFFXVVo',
     authDomain: 'comflowbrf.firebaseapp.com',
